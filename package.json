@@ -1,0 +1,30 @@
+{
+  "name": "aimbra-ui-sass",
+  "version": "0.0.0",
+  "description": "Projeto de estilização dos componentes como padrão e baseado em Bootstrap 4 sem Jquery",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thiagosantoscunha/aimbra-ui-sass.git"
+  },
+  "keywords": [
+    "sass",
+    "css",
+    "frontend",
+    "components",
+    "html",
+    "style"
+  ],
+  "author": "Thiago Cunha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thiagosantoscunha/aimbra-ui-sass/issues"
+  },
+  "homepage": "https://github.com/thiagosantoscunha/aimbra-ui-sass#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  }
+}
