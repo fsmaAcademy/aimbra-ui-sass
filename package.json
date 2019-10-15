@@ -1,7 +1,7 @@
 {
   "name": "aimbra-ui-sass",
-  "version": "0.0.0",
-  "description": "Projeto de estilização dos componentes como padrão e baseado em Bootstrap 4 sem Jquery",
+  "version": "0.0.1",
+  "description": "Component styling project as standard and bootstrap 4 based without Jquery.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
